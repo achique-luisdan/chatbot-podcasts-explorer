@@ -1,0 +1,23 @@
+{
+  "name": "chatbot-podcasts-explorer",
+  "version": "1.0.0",
+  "description": "Seguramente te haz enterado que son los Podcasts, pero por si no, los podcasts son una serie de episodios grabados en audio y transmitidos en alguna plataforma digital, abordando muchos temas de interes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achique-luisdan/chatbot-podcasts-explorer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achique-luisdan/chatbot-podcasts-explorer/issues"
+  },
+  "homepage": "https://github.com/achique-luisdan/chatbot-podcasts-explorer#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.17.1"
+  }
+}
